@@ -1,0 +1,24 @@
+
+.box1 {
+    background-color: greenyellow;
+    height: 400px;
+    width: 600px;
+}
+
+.box2 {
+    background-color: red;
+    height: 250px;
+    width: 400px;
+}
+
+.box3 {
+    background-color: black;
+    height: 300px;
+    width: 100px;
+}
+
+.box4 {
+    background-color: purple;
+    height: 80px;
+    width: 350px;
+}
